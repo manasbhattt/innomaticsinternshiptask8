@@ -1,0 +1,30 @@
+
+
+
+.home-container {
+  background-color: #FBE9D1;
+}
+
+.hero-section {
+  background-image: url('https://imgs.search.brave.com/htpczj_WVI1mrhp4U0M-G0BRbtjRk-KnZkj9qXp1EfU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA3LzA0LzcwLzUz/LzM2MF9GXzcwNDcw/NTMyNl9mbllRbXJr/b0diSlNnWGV3YUtr/U2dJRWNxeUJwb2NF/aC5qcGc');
+  background-size: cover;
+  padding: 100px 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.features-section {
+  background-color: #FBE9D1;
+  padding: 50px 0;
+}
+
+.feature-box {
+  background-color: #d4bb9a;
+  border: 1px solid #23303c;
+  border-radius: 5px;
+  transition: transform 0.3s;
+}
+
+.feature-box:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
